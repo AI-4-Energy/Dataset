@@ -4,7 +4,7 @@ This repository contains a demo version of weather and PV-Station information fr
 
 If you use this data-set for any publicity or project, please also cite the following paper: [[1]](#1)
 
-# Information on the complete data-set
+## Information on the complete data-set
 
 The complete data-set contains eleven weather features and three PV-Station parameters, which are described as follows:
   
@@ -27,7 +27,7 @@ The Produced Energy describes the total energy produced by the system. This incl
 The complete data-set contains 5 years of weather and PV-Station information (January 2015 to December 2019), which were measured on-site in Arvika, Sweden in an interval of six seconds. In addition to this data-set, which represents one PV-Station, the Glava Energy Center also measured information from two additional stations. It is furthermore possible to receive current information via a fast API. 
 
 
-# Contacts:
+## Contacts:
 
 If you want to have more information on the data-set or on how to retrieve full access to the data, please feel free to contact us
 
@@ -39,7 +39,7 @@ If you want to have more information on the data-set or on how to retrieve full 
 | Andreas Theocharis | andreas.theocharis@kau.se |
 
 
-# References: 
+## References: 
 
 <a id="1">[1]</a> 
 Phil Aupke, Andreas Kassler, Andreas Theocharis et. al.:  
