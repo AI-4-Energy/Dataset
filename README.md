@@ -27,6 +27,22 @@ The Produced Energy describes the total energy produced by the system. This incl
 The complete data-set contains 5 years of weather and PV-Station information (January 2015 to December 2019), which were measured on-site in Arvika, Sweden in an interval of six seconds. In addition to this data-set, which represents one PV-Station, the Glava Energy Center also measured information from two additional stations. It is furthermore possible to receive current information via a fast API. 
 
 
+
+## Information on the demo data-set
+
+The four weather types, presented in the public demo are as follows: 
+
+| Feature | Description |
+| --- | --- |
+| Indirect Radiation | W/m<sup>2</sup> |
+| Precipitation | L/m<sup>2</sup>|
+| Temperature | C |
+| Humidity | Percentage |
+
+The data-set contains information from the 01.06.2016 - 31.08.2016.
+
+
+
 ## Contacts:
 
 If you want to have more information on the data-set or on how to retrieve full access to the data, please feel free to contact us
