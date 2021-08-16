@@ -60,6 +60,7 @@ If you want to have more information on the data-set or on how to retrieve full 
 <a id="1">[1]</a> 
 Phil Aupke, Andreas Kassler, Andreas Theocharis et. al.:  
 Quantifying Uncertainty for Predicting Renewable Energy Time Series Data using Machine Learning.
+https://www.mdpi.com/2673-4591/5/1/50
 
 
 
