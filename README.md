@@ -10,6 +10,7 @@ The complete data-set contains eleven weather features and three PV-Station para
   
 | Feature | Description |
 | --- | --- |
+| Timestamp | Datetime |
 | Wind Direction | Gradient |
 | Precipitation | L/m<sup>2</sup>|
 | Temperature | C |
@@ -30,16 +31,19 @@ The complete data-set contains 5 years of weather and PV-Station information (Ja
 
 ## Information on the demo data-set
 
-The four weather types, presented in the public demo are as follows: 
+The four weather types and the produced energy, presented in the public demo are as follows: 
 
 | Feature | Description |
 | --- | --- |
+| Timestamp | Datetime |
 | Indirect Radiation | W/m<sup>2</sup> |
 | Precipitation | L/m<sup>2</sup>|
 | Temperature | C |
 | Humidity | Percentage |
+| Produced Energy | kW |
 
-The data-set contains information from the 01.06.2016 - 31.08.2016.
+
+The data-set is available as a JSON or Pickel format. The Timestamp is the key value in those dataformats, while the other features are the corresponding values to it. The demo data-set contains information from the 01.06.2017 - 31.08.2017.
 
 
 
