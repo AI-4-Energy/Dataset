@@ -4,6 +4,11 @@ This repository contains a demo version of weather and PV-Station information fr
 
 If you use this data-set for any publicity or project, please also cite the following paper: [[1]](#1)
 
+## Information on the PV Panels
+
+The PV panels are oriented to the south with a 40 degree inclination. The PV modules are comprised of 20xITS 200Wp + 20xITS 210Wp + 20xITS 210Wp + 19xITS 220Wp at a total PV Power of 16.580Wp (Watt-peak) using 4xEltek Valere 4300W inverter.
+
+
 ## Information on the complete data-set
 
 The complete data-set contains eleven weather features and three PV-Station parameters, which are described as follows:
