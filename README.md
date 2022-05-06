@@ -2,7 +2,7 @@
 
 This repository contains a demo version of weather and PV-Station information from the Glava Energy Center (https://www.glavaenergycenter.se/). This data-set contains information of four weather features for two months. 
 
-If you use this data-set for any publicity or project, please also cite the following paper: [[1]](#1)
+If you use this data-set for any publicity or project, please also cite the following paper: [[1]](#1), [[2]](#2)
 
 ## Information on the PV Panels
 
@@ -70,6 +70,10 @@ If you want to have more information on the data-set or on how to retrieve full 
 Phil Aupke, Andreas Kassler, Andreas Theocharis et. al.:  
 Quantifying Uncertainty for Predicting Renewable Energy Time Series Data using Machine Learning.<br />
 Eng. Proc. 2021, 5(1), 50; https://doi.org/10.3390/engproc2021005050
+
+<a id="2">[2]</a> 
+Nammouchi, Amal, et al. "Integration of AI, IoT and Edge-Computing for Smart Microgrid Energy Management." 2021 IEEE International Conference on Environment and Electrical Engineering and 2021 IEEE Industrial and Commercial Power Systems Europe (EEEIC/I&CPS Europe). IEEE, 2021.
+
 
 
 
