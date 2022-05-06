@@ -26,7 +26,7 @@ The complete data-set contains eleven weather features and three PV-Station para
 | Radiation 30 Degrees | W/m<sup>2</sup> |
 | Radiation 40 Degrees | W/m<sup>2</sup> |
 | Indirect Radiation | W/m<sup>2</sup> |
-| Produced Energy| kW |
+| Produced Power| kW |
   
 The Produced Energy describes the total energy produced by the system. This includes the two variables Ptot and Qtot. Ptot describes the amount of power, which is usable for the end-user of the system. This energy can be directly converted to practical energy for i.e., energy outlets. Qtot describes the power, which is only available for the system itself and is used to keep the system itself usable. Stot (Energy Produced) describes the total power in the system itself.
 
